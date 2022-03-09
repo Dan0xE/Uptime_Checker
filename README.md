@@ -5,6 +5,6 @@ A tinny Python project that checks if your site is up and running
 > Easy to use
 
 
-`Prerequisites: `
+`Prerequisites: ` <br />
 `[Python](https://python.org)` <br />
 `Brain`
