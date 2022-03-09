@@ -5,6 +5,8 @@ import time
 import urllib.request
 import os
 
+__name__ = "__main__" 
+
 clear = lambda: os.system('cls')
 
 
@@ -32,9 +34,10 @@ SetInterval = True
 
 Pass = True
 
+clear()
+
 while Pass == True:
     
-    clear()
     print("Enter \"S\" If the Ping Interval should be set in Seconds, else \"M\" for Minutes: ")
     TimeString = input().upper()
 
