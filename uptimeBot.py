@@ -38,14 +38,14 @@ while Pass == True:
     print("Enter \"S\" If the Ping Interval should be set in Seconds, else \"M\" for Minutes: ")
     TimeString = input()
 
-    if(TimeString.find('M') != -1):
+    if(TimeString.find('M') != -1) or TimeString.find('m') != -1:
         Pass = False
     
-    elif(TimeString.find('S') != -1):
+    elif(TimeString.find('S') != -1) or TimeString.find('s') != -1:
         Pass = False
 
     else:
-        print("Enter either \"M\" or \"S\"")
+        print("Enter either \"M\" or \"S\" and Char has to be Uppercase!")
         continue
 
     
