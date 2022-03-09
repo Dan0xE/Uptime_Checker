@@ -7,4 +7,4 @@ A tinny Python project that checks if your site is up and running
 
 `Prerequisites: ` <br />
 [Python](https://python.org) <br />
-`Brain`
+Brain
