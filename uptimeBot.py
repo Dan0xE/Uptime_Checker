@@ -41,7 +41,7 @@ while Pass == True:
     if(TimeString.find('M') != -1):
         Pass = False
     
-    elif(TimeString.find('M') != -1):
+    elif(TimeString.find('S') != -1):
         Pass = False
 
     else:
