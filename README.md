@@ -5,5 +5,5 @@ A tinny Python project that checks if your site is up and running
 > Easy to use
 
 Prequesites:
-[Python]("https://python.org")
+[Python]("https://python.org") <br />
 Brain
