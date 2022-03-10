@@ -1,7 +1,7 @@
 # Uptime_Checker
-A tinny Python project that checks if your site is up and running
+A tiny Python project that checks if your site is up and running
 
-> Handles input execptions :) <br />
+> Handles input exceptions :) <br />
 > Easy to use
 
 
